@@ -1,2 +1,2 @@
 # PHY407
-Hi hi
+This repository stores lab assignments and projects for PHY407. 
